@@ -8,6 +8,7 @@
   <img align="center" alt="Gusta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gusta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gusta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="right" alt="Gif" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 </div>
   
   ##
