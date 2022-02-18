@@ -9,7 +9,7 @@
 <br>
 <ul>
   <li>🙋‍♂️ Hi there my name is Gusta and have 16 years.</li>
-  <li>🎧 I like playing games.</li>
+  <li>🎮 I like playing games.</li>
   <li>📚 I'm currently studying these languages,Frameworks and tools:</li>
   <li><img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white></li>
   <li><img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white</li>
