@@ -1,14 +1,23 @@
-## Hi!!! i'am Gustavo Rizerio
- <div align="center">
+### Hi there 👋
+
+<div align="center">
   <a href="https://github.com/GustavoRizerio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRizerio&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
-</div>
   
-  ##
+<h1> About Me </h1>
+<br>
+<ul>
+  <li>🙋‍♂️ Hi there my name is Gusta and have 16 years.</li>
+  <li>🎧 I like playing games.</li>
+  <li>📚 I'm currently studying these languages:</li>
+  <li><img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white></li>
+  <li><img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white</li>
+  <li><img src=https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b></li>
+ <li></li>
+</ul>
+<br>
+<hr>
  
 <div> 
   <a href="https://www.instagram.com/gustavo_rizerio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
