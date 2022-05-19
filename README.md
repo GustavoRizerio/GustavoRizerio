@@ -5,7 +5,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRizerio&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-### 📚 I'm currently learning these languages:
+### 📚 I'm currently learning these languages and tools:
 
 <div style="display: inline-block"><br/>
     <img align='center' alt='html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
