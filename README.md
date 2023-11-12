@@ -11,6 +11,7 @@
 ###
 
 <p align="left">✨ A passionate student immersed in the captivating world of programming. My journey involves diving deep into the intricacies of software development, driven by a curious and inquisitive mind.
+  
 <br>📚 I'm currently learning Javascript and PHP<br>
 
 ###
